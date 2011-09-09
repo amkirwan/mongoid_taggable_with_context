@@ -12,7 +12,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   gem.name = "mongoid_taggable_with_context"
-  gem.homepage = "http://github.com/aq1018/mongoid_taggable_with_context"
+  gem.homepage = "https://github.com/amkirwan/mongoid_taggable_with_context"
   gem.license = "MIT"
   gem.summary = %Q{Mongoid taggable behaviour}
   gem.description = %Q{It provides some helpers to create taggable documents with context.}
